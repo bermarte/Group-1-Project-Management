@@ -1,6 +1,6 @@
 # Hi dears
 
-![image info](/photos/programmer.png)
+![image info](../photos/programmer.png)
 
 **Coding** is one of the most interesting things for programmers and software
 developers. You started doing it for fun, it was your hobby, it was your passion
