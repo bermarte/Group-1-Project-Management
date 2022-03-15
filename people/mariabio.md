@@ -1,6 +1,6 @@
 # I love modern `ART`. I am for `PEACE`. I learn `CODING`
 
-![alt text](/photos/haring_banner.jpeg)
+![alt text](../photos/haring_banner.jpeg)
 
 ## Hi there :wave
 
