@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 baseurl: /Group-1-Project-Management
 plugins:
   - jemoji
