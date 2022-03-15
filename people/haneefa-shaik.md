@@ -1,6 +1,6 @@
 # Hi 👋 Welcome to my Bio
 
-![alt hello](/photos/Hello.gif)
+![alt hello](../photos/Hello.gif)
 
 I am Haneefa. I am from India and i have been living in belgium since 3 years .
 I am a housewife currently.
