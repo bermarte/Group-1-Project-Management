@@ -5,7 +5,7 @@ An island monkey who turns to civilization to learn how to `code` and
 island then make a bigger leap from one continent to the other (hence island
 monkey) :laughing:
 
-![chimpsIMG](https://github.com/lab-brussels-1/Group-1-Project-Management/blob/master/photos/Island%20peeps.png)
+![chimpsIMG](/photos/Island%20peeps.png)
 
 _Career wise_, I'm an experienced Community of Happiness, Event, and Program
 Coordinator with a demonstrated history of working in the tourism & hospitality
